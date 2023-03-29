@@ -2,6 +2,10 @@
 
 Este é um projeto de jogo estilo Street Fighter clássico, feito apenas em JavaScript e HTML. Ele é uma implementação simples do famoso jogo de luta, no qual dois personagens se enfrentam em uma batalha.
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106606006/228637713-53c17154-d788-44c0-88e4-443b886027af.PNG" width="630px"/>
+</div>
+
 ## Como jogar
 
 O objetivo do jogo é derrotar o oponente, reduzindo sua barra de vida até zero antes do tempo acabar.

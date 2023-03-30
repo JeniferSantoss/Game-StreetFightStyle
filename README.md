@@ -13,7 +13,7 @@ O jogo é controlado através do teclado. O player 1 utiliza as teclas A, W, D p
 
 ## Como executar
 
-Para executar o jogo, basta abrir o arquivo index.html em um navegador web. Não é necessário nenhum tipo de instalação ou configuração adicional.
+Para executar o jogo, basta clicar [aqui](https://jenifersantoss.github.io/Game-StreetFighter-Style/). Não é necessário nenhum tipo de instalação ou configuração adicional.
 
 ## Tecnologias utilizadas
 

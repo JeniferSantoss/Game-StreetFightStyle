@@ -68,7 +68,7 @@ const player = new Fighter({
       framesMax: 6,
     },
     takeHit: {
-      imageSrc: "./assets/samurai/Take hit - white silhouette.png",
+      imageSrc: "./assets/samurai/Take Hit - white silhouette.png",
       framesMax: 4,
     },
     death: {
